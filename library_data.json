@@ -1,0 +1,20 @@
+{
+  "books": {
+    "Areeb ki kahani": {
+      "author": "Areeb",
+      "qty": 1,
+      "reserved": []
+    },
+    "EK THA TIGER": {
+      "author": "Salman",
+      "qty": 1,
+      "reserved": []
+    }
+  },
+  "users": [
+    "Areeb Akhtar",
+    "Areeb",
+    "Salman khan"
+  ],
+  "issued": []
+}
